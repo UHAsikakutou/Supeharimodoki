@@ -64,4 +64,4 @@ C++もDXも未経験なので開発を進めるうちに決定する。
 
 ---
 
-Copyright (C) UHAsikakutou 2022. All rights reserved.
+Copyright &copy; 2022 UHAsikakutou. All rights reserved.
